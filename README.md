@@ -1,5 +1,6 @@
 
-https://github.com/user-attachments/assets/93d558e4-6953-4bec-8642-9b5b2755c2e2
+![Image](https://github.com/user-attachments/assets/97f0b6cd-d1ae-421d-b10f-0a4dc12f972d)
+
 - 👋 Hi, Myself Disha
 - 🌱 I’m currently learning Data Analysis
 
