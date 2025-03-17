@@ -2,10 +2,9 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/97f0b6cd-d1ae-421d-b10f-0a4dc12f972d" alt="Image" width="500"/>
 </p>
-
-<p align="center" font-size=3rem>
-    Aspiring Data Analyst
-</p><br>
+<p align="center">
+    <strong><span style="font-size: 2rem;">Aspiring Data Analyst</span></strong>
+</p>
 
 
 ## 👋 Hi, I'm Disha!  
