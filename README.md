@@ -3,7 +3,7 @@
     <img src="https://github.com/user-attachments/assets/97f0b6cd-d1ae-421d-b10f-0a4dc12f972d" alt="Image" width="500"/>
 </p>
 <p align="center">
-    <strong><span style="font-size: 2rem;">Aspiring Data Analyst</span></strong>
+    <strong><span style="font-size: 7rem;">Aspiring Data Analyst</span></strong>
 </p>
 
 
