@@ -3,13 +3,13 @@
     <img src="https://github.com/user-attachments/assets/97f0b6cd-d1ae-421d-b10f-0a4dc12f972d" alt="Image" width="500"/>
 </p>
 <p align="center">
-    <strong><span style="font-size: 7rem;">Aspiring Data Analyst</span></strong>
+    <strong><span style="font-size: 7rem" >Aspiring Data Analyst</span></strong>
 </p>
 
 
 ## 👋 Hi, I'm Disha!  
 - 🌱 Currently learning **Data Analysis & Data Science**  
-- 📊 Working on **Data-driven projects** <br>
+- 📊 Working on **Data-driven projects** <br><br>
 
 ## 🛠 Tech Stack  
 ### Languages  
@@ -23,15 +23,6 @@
 
 ### Tools & IDEs  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <br>
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Disha9248&show_icons=true&theme=radical" />
-</p><br>
-
-## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-
 
 
 
