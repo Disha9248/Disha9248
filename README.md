@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/97f0b6cd-d1ae-421d-b10f-0a4dc12f972d" alt="Image" width="500"/>
 </p>
-<h1 align="center">Aspiring Data Analyst</h1>
+<h1 align="center">Aspiring Data Analyst</h1><br><br>
 
 
 ## 👋 Hi, I'm Disha!  
